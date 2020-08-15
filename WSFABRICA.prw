@@ -4,7 +4,7 @@
 #INCLUDE "APWEBEX.CH"
 #INCLUDE "TBICONN.CH"
 
-WSSERVICE WSFABRICA Description "<span style='color:red;'>Fabrica de Software - TOTVS BA</span><br/>&nbsp;&nbsp;&nbsp;•<span style='color:red;'> WS com estruturas padroes da Fábrica de Software.</span>"
+WSSERVICE WSFABRICA Description "<span style='color:blue;'>Fabrica de Software - TOTVS BA</span><br/>&nbsp;&nbsp;&nbsp;•<span style='color:red;'> WS com estruturas padroes da Fábrica de Software.</span>"
 
 	WSDATA o_Empresa	AS strEmpresa
 	WSDATA o_Retorno	AS strRetorno
